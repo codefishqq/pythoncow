@@ -7,6 +7,7 @@ basic python:-
 # multi-line coding
 print ("1>>hello \
 world")
+# u can run/test python program online in browser !!
 
 # section 1
 # line comment :- #
@@ -14,7 +15,7 @@ world")
 
 # section 2
 
-print ("2>>hello line 1")
+print ("2>> hello line 1")
 print ('3>>hello line 2')
 
 # print no new line
